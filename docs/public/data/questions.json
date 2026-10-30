@@ -1,0 +1,4185 @@
+[
+  {
+    "id": "p3-001",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の基本",
+    "spice": "クミン",
+    "question": "クミンは何科の植物ですか。",
+    "options": [
+      "セリ科",
+      "シソ科",
+      "ショウガ科"
+    ],
+    "correct": 0,
+    "explanation": "教科書のクミンの項目では、科名をセリ科としています。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "p3-002",
+    "grade": 3,
+    "type": "choice",
+    "category": "原産地",
+    "spice": "クミン",
+    "question": "教科書に記載されたクミンの原産地はどこですか。",
+    "options": [
+      "エジプト",
+      "インド",
+      "中国"
+    ],
+    "correct": 0,
+    "explanation": "クミンの項目には原産地としてエジプトが記載されています。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "p3-003",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "クミン",
+    "question": "クミンの利用部位として教科書に記載されているものはどれですか。",
+    "options": [
+      "種子（植物学上は果実）",
+      "根",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "一般には種子と呼ばれますが、植物学上は果実です。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "p3-004",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の基本",
+    "spice": "バジル",
+    "question": "バジルは何科の植物ですか。",
+    "options": [
+      "シソ科",
+      "セリ科",
+      "マツブサ科"
+    ],
+    "correct": 0,
+    "explanation": "バジルはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "p3-005",
+    "grade": 3,
+    "type": "choice",
+    "category": "別名",
+    "spice": "バジル",
+    "question": "バジルの和名として教科書に記載されているものはどれですか。",
+    "options": [
+      "めぼうき",
+      "八角",
+      "馬芹"
+    ],
+    "correct": 0,
+    "explanation": "バジルの別名に「めぼうき」があります。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "p3-006",
+    "grade": 3,
+    "type": "choice",
+    "category": "料理との相性",
+    "spice": "バジル",
+    "question": "教科書でバジルと特に相性がよいとされる食材はどれですか。",
+    "options": [
+      "トマト",
+      "りんご",
+      "じゃがいも"
+    ],
+    "correct": 0,
+    "explanation": "バジルはトマトと相性がよく、サラダ、スープ、パスタ、ピザなどに使われます。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "p3-007",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "",
+    "question": "ジンジャーとターメリックが属する科はどれですか。",
+    "options": [
+      "ショウガ科",
+      "シソ科",
+      "セリ科"
+    ],
+    "correct": 0,
+    "explanation": "教科書の植物分類表ではジンジャーとターメリックをショウガ科の例として挙げています。",
+    "source": {
+      "book": "book-01",
+      "page": 10
+    }
+  },
+  {
+    "id": "p3-008",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "",
+    "question": "バジルやミントが多く属する科はどれですか。",
+    "options": [
+      "シソ科",
+      "セリ科",
+      "ショウガ科"
+    ],
+    "correct": 0,
+    "explanation": "教科書の分類表にはシソ科の例としてバジルとミントが挙げられています。",
+    "source": {
+      "book": "book-01",
+      "page": 10
+    }
+  },
+  {
+    "id": "p2-001",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の基本",
+    "spice": "アニス",
+    "question": "アニスは何科の植物ですか。",
+    "options": [
+      "セリ科",
+      "シソ科",
+      "マツブサ科"
+    ],
+    "correct": 0,
+    "explanation": "アニスの科名はセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "p2-002",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "アニス",
+    "question": "アニスについて、教科書が示す利用部位はどれですか。",
+    "options": [
+      "種子（植物学上は果実）",
+      "樹皮",
+      "葉のみ"
+    ],
+    "correct": 0,
+    "explanation": "アニスは種子として扱う部分を利用し、植物学上は果実に当たります。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "p2-003",
+    "grade": 2,
+    "type": "choice",
+    "category": "用途",
+    "spice": "アニス",
+    "question": "アニスの使い方として教科書に記載されているものはどれですか。",
+    "options": [
+      "菓子やパン、リキュールの風味づけ",
+      "葉をトマトサラダに添える",
+      "根をカレー粉に加える"
+    ],
+    "correct": 0,
+    "explanation": "アニスの甘い香りは菓子・パン・リキュールなどに用いられます。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "p2-004",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の基本",
+    "spice": "スターアニス",
+    "question": "スターアニスは何科の植物ですか。",
+    "options": [
+      "マツブサ科",
+      "セリ科",
+      "シソ科"
+    ],
+    "correct": 0,
+    "explanation": "スターアニスはマツブサ科で、セリ科のアニスとは異なる植物です。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "p2-005",
+    "grade": 2,
+    "type": "choice",
+    "category": "香りの成分",
+    "spice": "スターアニス",
+    "question": "スターアニスの甘い香りの主成分はどれですか。",
+    "options": [
+      "アネトール",
+      "カプサイシン",
+      "クルクミン"
+    ],
+    "correct": 0,
+    "explanation": "アニスやフェンネルと共通する甘い香りの主成分はアネトールです。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "p2-006",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の基本",
+    "spice": "レモングラス",
+    "question": "レモングラスの科名はどれですか。",
+    "options": [
+      "イネ科",
+      "セリ科",
+      "シソ科"
+    ],
+    "correct": 0,
+    "explanation": "レモングラスはイネ科で、地上部を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "p2-007",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "レモングラス",
+    "question": "レモングラスの利用部位として教科書に記載されているものはどれですか。",
+    "options": [
+      "地上部",
+      "種子だけ",
+      "根だけ"
+    ],
+    "correct": 0,
+    "explanation": "教科書には利用部位を地上部と記載しています。葉だけでなく茎も料理に使われます。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "p2-008",
+    "grade": 2,
+    "type": "choice",
+    "category": "料理での利用",
+    "spice": "レモングラス",
+    "question": "レモングラスを使う料理として教科書が挙げているものはどれですか。",
+    "options": [
+      "タイのトムヤムクン",
+      "スペインのパエリア",
+      "イタリアのジェノベーゼ"
+    ],
+    "correct": 0,
+    "explanation": "レモングラスは東南アジアで広く使われ、タイのトムヤムクンが例示されています。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "p1-001",
+    "grade": 1,
+    "type": "choice",
+    "category": "香りの成分",
+    "spice": "スターアニス",
+    "question": "スターアニス、アニス、フェンネルに共通する甘い香りの主成分はどれですか。",
+    "options": [
+      "アネトール",
+      "クルクミン",
+      "オイゲノール"
+    ],
+    "correct": 0,
+    "explanation": "3種は植物として同一ではありませんが、甘い香りの主成分としてアネトールが共通します。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "p1-002",
+    "grade": 1,
+    "type": "choice",
+    "category": "名称の区別",
+    "spice": "クミン",
+    "question": "教科書が説明する「ブラッククミン」について、正しいものはどれですか。",
+    "options": [
+      "ニゲラというキンポウゲ科植物の種子で、セリ科のクミンとは異なる",
+      "クミンを強く焙煎したもの",
+      "クミンの未熟な果実"
+    ],
+    "correct": 0,
+    "explanation": "ブラッククミンは名前にクミンを含みますが、教科書ではニゲラの種子を利用する別のスパイスと説明しています。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "p1-003",
+    "grade": 1,
+    "type": "choice",
+    "category": "栽培・収穫",
+    "spice": "",
+    "question": "シソ科の木本性ハーブ（ローズマリー、ラベンダー、タイムなど）を収穫するときの方法として適切なのはどれですか。",
+    "options": [
+      "使う分だけ枝を間引くように収穫する",
+      "株ぎわからすべての枝を一度に切る",
+      "新芽を含めて根ごと抜く"
+    ],
+    "correct": 0,
+    "explanation": "枝を一度に株ぎわから切り取ると、株が弱って枯れることがあります。",
+    "source": {
+      "book": "book-03",
+      "page": 20
+    }
+  },
+  {
+    "id": "p1-004",
+    "grade": 1,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "複数種類のハーブを用いたハーブティーの呼び名はどれですか。",
+    "options": [
+      "ブレンドハーブティー",
+      "シングルハーブティー",
+      "フレッシュハーブティー"
+    ],
+    "correct": 0,
+    "explanation": "教科書では一種類のみをシングル、複数をブレンドハーブティーと呼んでいます。",
+    "source": {
+      "book": "book-03",
+      "page": 3
+    }
+  },
+  {
+    "id": "p1-005",
+    "grade": 1,
+    "type": "written",
+    "category": "香りと分類",
+    "spice": "スターアニス",
+    "question": "アニスとスターアニスは香りが似ています。共通する香り成分と、両者の科名の違いを説明してください。",
+    "answer": "共通する甘い香りの主成分はアネトール。アニスはセリ科、スターアニスはマツブサ科で、別の植物である。",
+    "explanation": "香りが似ていても植物分類が同じとは限りません。科名と成分の両方を説明できれば正解です。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "p1-006",
+    "grade": 1,
+    "type": "written",
+    "category": "使い方",
+    "spice": "クミン",
+    "question": "クミンのホールを料理の最初に使うとき、教科書が示す香りの引き出し方を説明してください。",
+    "answer": "調理の初めに油へクミンのホールを入れ、弱火で加熱して香りを油に移す。",
+    "explanation": "ホールはスタータースパイスとして使われ、油で香りを引き出すと説明されています。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "p1-007",
+    "grade": 1,
+    "type": "written",
+    "category": "名称の由来",
+    "spice": "バジル",
+    "question": "バジルの和名「めぼうき」の由来を、種子の性質に触れて説明してください。",
+    "answer": "バジルの種子を水に浸すとゼリー状になる。昔、その種子を目に入ったごみを取るために使ったことが「めぼうき」の由来。",
+    "explanation": "教科書では種子が水を含んで膨らむ性質と、昔の使い方を和名の由来として説明しています。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "p1-008",
+    "grade": 1,
+    "type": "written",
+    "category": "栽培・収穫",
+    "spice": "",
+    "question": "木本性のシソ科ハーブを収穫する際、株ぎわから枝を全部切り取らない理由を説明してください。",
+    "answer": "一度に株ぎわから枝をすべて切ると株が弱って枯れることがあるため。使う分だけ枝を間引くように収穫する。",
+    "explanation": "ローズマリー、ラベンダー、タイムなどの収穫方法として記載されています。",
+    "source": {
+      "book": "book-03",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-001",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "オレガノ",
+    "question": "オレガノはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "ショウガ科",
+      "ナス科"
+    ],
+    "correct": 0,
+    "explanation": "オレガノはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 5
+    }
+  },
+  {
+    "id": "forecast-002",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "オレガノ",
+    "question": "オレガノで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "果実",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "オレガノは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 5
+    }
+  },
+  {
+    "id": "forecast-003",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "オレガノ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「トマト料理に合わせやすい地中海沿岸原産のハーブ」",
+    "options": [
+      "オレガノ",
+      "ガラムマサラ",
+      "わさび"
+    ],
+    "correct": 0,
+    "explanation": "オレガノの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 5
+    }
+  },
+  {
+    "id": "forecast-004",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ガーリック",
+    "question": "ガーリックはどの科に属しますか。",
+    "options": [
+      "ヒガンバナ科",
+      "ナス科",
+      "アブラナ科"
+    ],
+    "correct": 0,
+    "explanation": "ガーリックはヒガンバナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 6
+    }
+  },
+  {
+    "id": "forecast-005",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ガーリック",
+    "question": "ガーリックで主に利用する部位はどれですか。",
+    "options": [
+      "鱗茎",
+      "果実",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "ガーリックは鱗茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 6
+    }
+  },
+  {
+    "id": "forecast-006",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ガーリック",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「にんにくとも呼び、鱗茎を使う」",
+    "options": [
+      "ガーリック",
+      "シナモン",
+      "七味唐辛子"
+    ],
+    "correct": 0,
+    "explanation": "ガーリックの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 6
+    }
+  },
+  {
+    "id": "forecast-007",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ガラムマサラ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「インドで家庭ごとの配合があるミックススパイス」",
+    "options": [
+      "ガラムマサラ",
+      "ターメリック",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "ガラムマサラの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 45
+    }
+  },
+  {
+    "id": "forecast-008",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "カレー粉",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「英国で生まれた、数多くのスパイスを合わせた粉末」",
+    "options": [
+      "カレー粉",
+      "ローズマリー",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "カレー粉の項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 46
+    }
+  },
+  {
+    "id": "forecast-009",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "クミン",
+    "question": "クミンはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "ミカン科",
+      "ヒガンバナ科"
+    ],
+    "correct": 0,
+    "explanation": "クミンはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "forecast-010",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "クミン",
+    "question": "クミンで主に利用する部位はどれですか。",
+    "options": [
+      "果実（一般に種子と呼ぶ）",
+      "樹皮",
+      "葉"
+    ],
+    "correct": 0,
+    "explanation": "クミンは果実（一般に種子と呼ぶ）を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "forecast-011",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "クミン",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「ホールを調理の初めに油で熱するスタータースパイス」",
+    "options": [
+      "クミン",
+      "クローブ",
+      "ローズマリー"
+    ],
+    "correct": 0,
+    "explanation": "クミンの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 10
+    }
+  },
+  {
+    "id": "forecast-012",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "クローブ",
+    "question": "クローブはどの科に属しますか。",
+    "options": [
+      "フトモモ科",
+      "アカネ科",
+      "ラン科"
+    ],
+    "correct": 0,
+    "explanation": "クローブはフトモモ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 11
+    }
+  },
+  {
+    "id": "forecast-013",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "クローブ",
+    "question": "クローブで主に利用する部位はどれですか。",
+    "options": [
+      "つぼみ",
+      "種子",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "クローブはつぼみを利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 11
+    }
+  },
+  {
+    "id": "forecast-014",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "クローブ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「釘の形をした開花前の花を乾燥させる」",
+    "options": [
+      "クローブ",
+      "バジル",
+      "ターメリック"
+    ],
+    "correct": 0,
+    "explanation": "クローブの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 11
+    }
+  },
+  {
+    "id": "forecast-015",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "こしょう",
+    "question": "こしょうはどの科に属しますか。",
+    "options": [
+      "コショウ科",
+      "アブラナ科",
+      "ヒガンバナ科"
+    ],
+    "correct": 0,
+    "explanation": "こしょうはコショウ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 12
+    }
+  },
+  {
+    "id": "forecast-016",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "こしょう",
+    "question": "こしょうで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "樹皮",
+      "花の雌しべ"
+    ],
+    "correct": 0,
+    "explanation": "こしょうは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 12
+    }
+  },
+  {
+    "id": "forecast-017",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "こしょう",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「収穫時期や加工で黒・白・緑などの種類になる」",
+    "options": [
+      "こしょう",
+      "シナモン",
+      "セージ"
+    ],
+    "correct": 0,
+    "explanation": "こしょうの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 12
+    }
+  },
+  {
+    "id": "forecast-018",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "コリアンダー",
+    "question": "コリアンダーはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "イネ科",
+      "フトモモ科"
+    ],
+    "correct": 0,
+    "explanation": "コリアンダーはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-019",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "コリアンダー",
+    "question": "コリアンダーで主に利用する部位はどれですか。",
+    "options": [
+      "葉・果実・根",
+      "種子",
+      "花の雌しべ"
+    ],
+    "correct": 0,
+    "explanation": "コリアンダーは葉・果実・根を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-020",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "コリアンダー",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「葉と果実で異なる香りを楽しめる」",
+    "options": [
+      "コリアンダー",
+      "七味唐辛子",
+      "ローズマリー"
+    ],
+    "correct": 0,
+    "explanation": "コリアンダーの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-021",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "サフラン",
+    "question": "サフランはどの科に属しますか。",
+    "options": [
+      "アヤメ科",
+      "マツブサ科",
+      "ナス科"
+    ],
+    "correct": 0,
+    "explanation": "サフランはアヤメ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 15
+    }
+  },
+  {
+    "id": "forecast-022",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "サフラン",
+    "question": "サフランで主に利用する部位はどれですか。",
+    "options": [
+      "花の雌しべ",
+      "鱗茎",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "サフランは花の雌しべを利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 15
+    }
+  },
+  {
+    "id": "forecast-023",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "サフラン",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「雌しべを液体に浸して黄色を引き出す」",
+    "options": [
+      "サフラン",
+      "ミント",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "サフランの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 15
+    }
+  },
+  {
+    "id": "forecast-024",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "山椒",
+    "question": "山椒はどの科に属しますか。",
+    "options": [
+      "ミカン科",
+      "シソ科",
+      "ショウガ科"
+    ],
+    "correct": 0,
+    "explanation": "山椒はミカン科です。",
+    "source": {
+      "book": "book-02",
+      "page": 16
+    }
+  },
+  {
+    "id": "forecast-025",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "山椒",
+    "question": "山椒で主に利用する部位はどれですか。",
+    "options": [
+      "果実・果皮・葉",
+      "樹皮",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "山椒は果実・果皮・葉を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 16
+    }
+  },
+  {
+    "id": "forecast-026",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "山椒",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「柑橘の香りと舌がしびれるような刺激を持つ」",
+    "options": [
+      "山椒",
+      "わさび",
+      "サフラン"
+    ],
+    "correct": 0,
+    "explanation": "山椒の項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 16
+    }
+  },
+  {
+    "id": "forecast-027",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "七味唐辛子",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「江戸時代の日本で生まれた、地域で配合が異なるミックススパイス」",
+    "options": [
+      "七味唐辛子",
+      "唐辛子",
+      "パセリ"
+    ],
+    "correct": 0,
+    "explanation": "七味唐辛子の項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 47
+    }
+  },
+  {
+    "id": "forecast-028",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "シナモン",
+    "question": "シナモンはどの科に属しますか。",
+    "options": [
+      "クスノキ科",
+      "ミカン科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "シナモンはクスノキ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 18
+    }
+  },
+  {
+    "id": "forecast-029",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "シナモン",
+    "question": "シナモンで主に利用する部位はどれですか。",
+    "options": [
+      "樹皮",
+      "葉",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "シナモンは樹皮を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 18
+    }
+  },
+  {
+    "id": "forecast-030",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "シナモン",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「樹皮を乾燥させて利用する甘い香りのスパイス」",
+    "options": [
+      "シナモン",
+      "ローレル",
+      "ガラムマサラ"
+    ],
+    "correct": 0,
+    "explanation": "シナモンの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 18
+    }
+  },
+  {
+    "id": "forecast-031",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "しょうが",
+    "question": "しょうがはどの科に属しますか。",
+    "options": [
+      "ショウガ科",
+      "フトモモ科",
+      "キク科"
+    ],
+    "correct": 0,
+    "explanation": "しょうがはショウガ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 19
+    }
+  },
+  {
+    "id": "forecast-032",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "しょうが",
+    "question": "しょうがで主に利用する部位はどれですか。",
+    "options": [
+      "根茎",
+      "花の雌しべ",
+      "葉"
+    ],
+    "correct": 0,
+    "explanation": "しょうがは根茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 19
+    }
+  },
+  {
+    "id": "forecast-033",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "しょうが",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「ジンジャーとも呼ぶ根茎のスパイス」",
+    "options": [
+      "しょうが",
+      "ガラムマサラ",
+      "唐辛子"
+    ],
+    "correct": 0,
+    "explanation": "しょうがの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 19
+    }
+  },
+  {
+    "id": "forecast-034",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "セージ",
+    "question": "セージはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "マツブサ科",
+      "ショウガ科"
+    ],
+    "correct": 0,
+    "explanation": "セージはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-035",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "セージ",
+    "question": "セージで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "種子",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "セージは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-036",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "セージ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「イタリア料理サルティンボッカに使われる」",
+    "options": [
+      "セージ",
+      "クミン",
+      "コリアンダー"
+    ],
+    "correct": 0,
+    "explanation": "セージの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-037",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ターメリック",
+    "question": "ターメリックはどの科に属しますか。",
+    "options": [
+      "ショウガ科",
+      "セリ科",
+      "ヒガンバナ科"
+    ],
+    "correct": 0,
+    "explanation": "ターメリックはショウガ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-038",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ターメリック",
+    "question": "ターメリックで主に利用する部位はどれですか。",
+    "options": [
+      "根茎",
+      "花の雌しべ",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "ターメリックは根茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-039",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ターメリック",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「カレーなどを黄色くするクルクミンを含む」",
+    "options": [
+      "ターメリック",
+      "ガラムマサラ",
+      "ローレル"
+    ],
+    "correct": 0,
+    "explanation": "ターメリックの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 21
+    }
+  },
+  {
+    "id": "forecast-040",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "タイム",
+    "question": "タイムはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "コショウ科",
+      "イネ科"
+    ],
+    "correct": 0,
+    "explanation": "タイムはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 22
+    }
+  },
+  {
+    "id": "forecast-041",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "タイム",
+    "question": "タイムで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "鱗茎",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "タイムは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 22
+    }
+  },
+  {
+    "id": "forecast-042",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "タイム",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「魚介と相性がよく、チモールを含む」",
+    "options": [
+      "タイム",
+      "コリアンダー",
+      "七味唐辛子"
+    ],
+    "correct": 0,
+    "explanation": "タイムの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 22
+    }
+  },
+  {
+    "id": "forecast-043",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "唐辛子",
+    "question": "唐辛子はどの科に属しますか。",
+    "options": [
+      "ナス科",
+      "フトモモ科",
+      "キク科"
+    ],
+    "correct": 0,
+    "explanation": "唐辛子はナス科です。",
+    "source": {
+      "book": "book-02",
+      "page": 27
+    }
+  },
+  {
+    "id": "forecast-044",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "唐辛子",
+    "question": "唐辛子で主に利用する部位はどれですか。",
+    "options": [
+      "果実・葉",
+      "花の雌しべ",
+      "つぼみ"
+    ],
+    "correct": 0,
+    "explanation": "唐辛子は果実・葉を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 27
+    }
+  },
+  {
+    "id": "forecast-045",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "唐辛子",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「熱帯アメリカ原産で、果実の辛みを利用する」",
+    "options": [
+      "唐辛子",
+      "サフラン",
+      "ナツメッグ"
+    ],
+    "correct": 0,
+    "explanation": "唐辛子の項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 27
+    }
+  },
+  {
+    "id": "forecast-046",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ナツメッグ",
+    "question": "ナツメッグはどの科に属しますか。",
+    "options": [
+      "ニクズク科",
+      "ショウガ科",
+      "フトモモ科"
+    ],
+    "correct": 0,
+    "explanation": "ナツメッグはニクズク科です。",
+    "source": {
+      "book": "book-02",
+      "page": 29
+    }
+  },
+  {
+    "id": "forecast-047",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ナツメッグ",
+    "question": "ナツメッグで主に利用する部位はどれですか。",
+    "options": [
+      "種子（メースは仮種皮）",
+      "花の雌しべ",
+      "つぼみ"
+    ],
+    "correct": 0,
+    "explanation": "ナツメッグは種子（メースは仮種皮）を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 29
+    }
+  },
+  {
+    "id": "forecast-048",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ナツメッグ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「同じ果実から種子のナツメッグと仮種皮のメースを得る」",
+    "options": [
+      "ナツメッグ",
+      "ガーリック",
+      "サフラン"
+    ],
+    "correct": 0,
+    "explanation": "ナツメッグの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 29
+    }
+  },
+  {
+    "id": "forecast-049",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "バジル",
+    "question": "バジルはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "アカネ科",
+      "ラン科"
+    ],
+    "correct": 0,
+    "explanation": "バジルはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "forecast-050",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "バジル",
+    "question": "バジルで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂・種子",
+      "根茎",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "バジルは葉・花穂・種子を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "forecast-051",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "バジル",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「トマト料理と相性がよく、種子は水を吸って膨らむ」",
+    "options": [
+      "バジル",
+      "ミント",
+      "ガラムマサラ"
+    ],
+    "correct": 0,
+    "explanation": "バジルの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 30
+    }
+  },
+  {
+    "id": "forecast-052",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "パセリ",
+    "question": "パセリはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "ヒガンバナ科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "パセリはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 31
+    }
+  },
+  {
+    "id": "forecast-053",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "パセリ",
+    "question": "パセリで主に利用する部位はどれですか。",
+    "options": [
+      "葉・茎",
+      "種子",
+      "花の雌しべ"
+    ],
+    "correct": 0,
+    "explanation": "パセリは葉・茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 31
+    }
+  },
+  {
+    "id": "forecast-054",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "パセリ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「地中海沿岸原産で、料理の彩りにも使う」",
+    "options": [
+      "パセリ",
+      "タイム",
+      "ターメリック"
+    ],
+    "correct": 0,
+    "explanation": "パセリの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 31
+    }
+  },
+  {
+    "id": "forecast-055",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "マスタード",
+    "question": "マスタードはどの科に属しますか。",
+    "options": [
+      "アブラナ科",
+      "コショウ科",
+      "アヤメ科"
+    ],
+    "correct": 0,
+    "explanation": "マスタードはアブラナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-056",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "マスタード",
+    "question": "マスタードで主に利用する部位はどれですか。",
+    "options": [
+      "種子",
+      "つぼみ",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "マスタードは種子を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-057",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "マスタード",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「からしの種子を利用する」",
+    "options": [
+      "マスタード",
+      "ガーリック",
+      "しょうが"
+    ],
+    "correct": 0,
+    "explanation": "マスタードの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-058",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ミント",
+    "question": "ミントはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "ニクズク科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "ミントはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 38
+    }
+  },
+  {
+    "id": "forecast-059",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ミント",
+    "question": "ミントで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "果実",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "ミントは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 38
+    }
+  },
+  {
+    "id": "forecast-060",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ミント",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「清涼感を生かして飲み物や料理に使う」",
+    "options": [
+      "ミント",
+      "ガラムマサラ",
+      "シナモン"
+    ],
+    "correct": 0,
+    "explanation": "ミントの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 38
+    }
+  },
+  {
+    "id": "forecast-061",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ローズマリー",
+    "question": "ローズマリーはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "アブラナ科",
+      "フトモモ科"
+    ],
+    "correct": 0,
+    "explanation": "ローズマリーはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 41
+    }
+  },
+  {
+    "id": "forecast-062",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ローズマリー",
+    "question": "ローズマリーで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "根茎",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "ローズマリーは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 41
+    }
+  },
+  {
+    "id": "forecast-063",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ローズマリー",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「まんねんろうとも呼ばれる地中海沿岸原産のハーブ」",
+    "options": [
+      "ローズマリー",
+      "パセリ",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "ローズマリーの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 41
+    }
+  },
+  {
+    "id": "forecast-064",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ローレル",
+    "question": "ローレルはどの科に属しますか。",
+    "options": [
+      "クスノキ科",
+      "セリ科",
+      "フトモモ科"
+    ],
+    "correct": 0,
+    "explanation": "ローレルはクスノキ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 42
+    }
+  },
+  {
+    "id": "forecast-065",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ローレル",
+    "question": "ローレルで主に利用する部位はどれですか。",
+    "options": [
+      "葉",
+      "樹皮",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "ローレルは葉を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 42
+    }
+  },
+  {
+    "id": "forecast-066",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ローレル",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「月桂樹・ローリエ・ベイリーブスとも呼ばれる」",
+    "options": [
+      "ローレル",
+      "わさび",
+      "山椒"
+    ],
+    "correct": 0,
+    "explanation": "ローレルの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 42
+    }
+  },
+  {
+    "id": "forecast-067",
+    "grade": 3,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "わさび",
+    "question": "わさびはどの科に属しますか。",
+    "options": [
+      "アブラナ科",
+      "キク科",
+      "ナス科"
+    ],
+    "correct": 0,
+    "explanation": "わさびはアブラナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 43
+    }
+  },
+  {
+    "id": "forecast-068",
+    "grade": 3,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "わさび",
+    "question": "わさびで主に利用する部位はどれですか。",
+    "options": [
+      "根茎・葉・茎",
+      "果実",
+      "花の雌しべ"
+    ],
+    "correct": 0,
+    "explanation": "わさびは根茎・葉・茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 43
+    }
+  },
+  {
+    "id": "forecast-069",
+    "grade": 3,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "わさび",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「すりおろすと鼻に抜ける辛みが生じる」",
+    "options": [
+      "わさび",
+      "シナモン",
+      "コリアンダー"
+    ],
+    "correct": 0,
+    "explanation": "わさびの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 43
+    }
+  },
+  {
+    "id": "forecast-070",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "アニス",
+    "question": "アニスはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "イネ科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "アニスはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-071",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "アニス",
+    "question": "アニスで主に利用する部位はどれですか。",
+    "options": [
+      "果実（一般に種子と呼ぶ）",
+      "葉",
+      "つぼみ"
+    ],
+    "correct": 0,
+    "explanation": "アニスは果実（一般に種子と呼ぶ）を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-072",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "アニス",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「甘い香りを菓子やリキュールに利用する」",
+    "options": [
+      "アニス",
+      "唐辛子",
+      "コリアンダー"
+    ],
+    "correct": 0,
+    "explanation": "アニスの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-073",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "五香粉",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「中国料理に使う、複数の粉末スパイスの配合」",
+    "options": [
+      "五香粉",
+      "シナモン",
+      "タイム"
+    ],
+    "correct": 0,
+    "explanation": "五香粉の項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 44
+    }
+  },
+  {
+    "id": "forecast-074",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "エルブドプロバンス",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「南フランスのハーブを合わせたミックススパイス」",
+    "options": [
+      "エルブドプロバンス",
+      "ミント",
+      "ガラムマサラ"
+    ],
+    "correct": 0,
+    "explanation": "エルブドプロバンスの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 44
+    }
+  },
+  {
+    "id": "forecast-075",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "オールスパイス",
+    "question": "オールスパイスはどの科に属しますか。",
+    "options": [
+      "フトモモ科",
+      "アブラナ科",
+      "イネ科"
+    ],
+    "correct": 0,
+    "explanation": "オールスパイスはフトモモ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-076",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "オールスパイス",
+    "question": "オールスパイスで主に利用する部位はどれですか。",
+    "options": [
+      "未熟な果実",
+      "つぼみ",
+      "葉"
+    ],
+    "correct": 0,
+    "explanation": "オールスパイスは未熟な果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-077",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "オールスパイス",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「クローブ・ナツメッグ・シナモンを合わせたような香りを持つ」",
+    "options": [
+      "オールスパイス",
+      "サフラン",
+      "カルダモン"
+    ],
+    "correct": 0,
+    "explanation": "オールスパイスの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-078",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "カルダモン",
+    "question": "カルダモンはどの科に属しますか。",
+    "options": [
+      "ショウガ科",
+      "コショウ科",
+      "アヤメ科"
+    ],
+    "correct": 0,
+    "explanation": "カルダモンはショウガ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 7
+    }
+  },
+  {
+    "id": "forecast-079",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "カルダモン",
+    "question": "カルダモンで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "根茎",
+      "葉"
+    ],
+    "correct": 0,
+    "explanation": "カルダモンは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 7
+    }
+  },
+  {
+    "id": "forecast-080",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "カルダモン",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「さやの中の種子に強い香りがあり、使う際にさやへ切れ目を入れる」",
+    "options": [
+      "カルダモン",
+      "シナモン",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "カルダモンの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 7
+    }
+  },
+  {
+    "id": "forecast-081",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "キャラウェイ",
+    "question": "キャラウェイはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "ヒガンバナ科",
+      "クスノキ科"
+    ],
+    "correct": 0,
+    "explanation": "キャラウェイはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 8
+    }
+  },
+  {
+    "id": "forecast-082",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "キャラウェイ",
+    "question": "キャラウェイで主に利用する部位はどれですか。",
+    "options": [
+      "果実（一般に種子と呼ぶ）",
+      "樹皮",
+      "つぼみ"
+    ],
+    "correct": 0,
+    "explanation": "キャラウェイは果実（一般に種子と呼ぶ）を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 8
+    }
+  },
+  {
+    "id": "forecast-083",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "キャラウェイ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「ザワークラウトやパンなどの風味づけに使う」",
+    "options": [
+      "キャラウェイ",
+      "チャイブ",
+      "ローレル"
+    ],
+    "correct": 0,
+    "explanation": "キャラウェイの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 8
+    }
+  },
+  {
+    "id": "forecast-084",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "くちなし",
+    "question": "くちなしはどの科に属しますか。",
+    "options": [
+      "アカネ科",
+      "ナス科",
+      "フトモモ科"
+    ],
+    "correct": 0,
+    "explanation": "くちなしはアカネ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 9
+    }
+  },
+  {
+    "id": "forecast-085",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "くちなし",
+    "question": "くちなしで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "樹皮",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "くちなしは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 9
+    }
+  },
+  {
+    "id": "forecast-086",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "くちなし",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「果実から水に溶ける黄色を出し、きんとんの色づけに使う」",
+    "options": [
+      "くちなし",
+      "サフラン",
+      "こしょう"
+    ],
+    "correct": 0,
+    "explanation": "くちなしの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 9
+    }
+  },
+  {
+    "id": "forecast-087",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "スターアニス",
+    "question": "スターアニスはどの科に属しますか。",
+    "options": [
+      "マツブサ科",
+      "セリ科",
+      "ヒガンバナ科"
+    ],
+    "correct": 0,
+    "explanation": "スターアニスはマツブサ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-088",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "スターアニス",
+    "question": "スターアニスで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "つぼみ",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "スターアニスは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-089",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "スターアニス",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「八角とも呼ぶ星形の果実で、甘い香りの主成分はアネトール」",
+    "options": [
+      "スターアニス",
+      "ホースラディッシュ",
+      "マジョラム"
+    ],
+    "correct": 0,
+    "explanation": "スターアニスの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-090",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "タラゴン",
+    "question": "タラゴンはどの科に属しますか。",
+    "options": [
+      "キク科",
+      "コショウ科",
+      "クスノキ科"
+    ],
+    "correct": 0,
+    "explanation": "タラゴンはキク科です。",
+    "source": {
+      "book": "book-02",
+      "page": 23
+    }
+  },
+  {
+    "id": "forecast-091",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "タラゴン",
+    "question": "タラゴンで主に利用する部位はどれですか。",
+    "options": [
+      "葉",
+      "鱗茎",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "タラゴンは葉を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 23
+    }
+  },
+  {
+    "id": "forecast-092",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "タラゴン",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「エストラゴンとも呼ばれ、ハーブビネガーに使う」",
+    "options": [
+      "タラゴン",
+      "アニス",
+      "カルダモン"
+    ],
+    "correct": 0,
+    "explanation": "タラゴンの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 23
+    }
+  },
+  {
+    "id": "forecast-093",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "チャービル",
+    "question": "チャービルはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "ニクズク科",
+      "ラン科"
+    ],
+    "correct": 0,
+    "explanation": "チャービルはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 25
+    }
+  },
+  {
+    "id": "forecast-094",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "チャービル",
+    "question": "チャービルで主に利用する部位はどれですか。",
+    "options": [
+      "葉",
+      "種子",
+      "根茎"
+    ],
+    "correct": 0,
+    "explanation": "チャービルは葉を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 25
+    }
+  },
+  {
+    "id": "forecast-095",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "チャービル",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「セルフィーユとも呼ばれ、料理やデザートの飾りに使う」",
+    "options": [
+      "チャービル",
+      "フェンネル",
+      "ディル"
+    ],
+    "correct": 0,
+    "explanation": "チャービルの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 25
+    }
+  },
+  {
+    "id": "forecast-096",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "チャイブ",
+    "question": "チャイブはどの科に属しますか。",
+    "options": [
+      "ヒガンバナ科",
+      "クスノキ科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "チャイブはヒガンバナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 24
+    }
+  },
+  {
+    "id": "forecast-097",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "チャイブ",
+    "question": "チャイブで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花",
+      "種子",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "チャイブは葉・花を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 24
+    }
+  },
+  {
+    "id": "forecast-098",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "チャイブ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「西洋あさつきとも呼ばれ、加熱し過ぎず使う」",
+    "options": [
+      "チャイブ",
+      "ガラムマサラ",
+      "ガーリック"
+    ],
+    "correct": 0,
+    "explanation": "チャイブの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 24
+    }
+  },
+  {
+    "id": "forecast-099",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "チリパウダー",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「唐辛子にクミンやオレガノなどを合わせたミックススパイス」",
+    "options": [
+      "チリパウダー",
+      "ホースラディッシュ",
+      "カレー粉"
+    ],
+    "correct": 0,
+    "explanation": "チリパウダーの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 48
+    }
+  },
+  {
+    "id": "forecast-100",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ディル",
+    "question": "ディルはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "ミカン科",
+      "アブラナ科"
+    ],
+    "correct": 0,
+    "explanation": "ディルはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 26
+    }
+  },
+  {
+    "id": "forecast-101",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ディル",
+    "question": "ディルで主に利用する部位はどれですか。",
+    "options": [
+      "葉・果実",
+      "根茎",
+      "種子"
+    ],
+    "correct": 0,
+    "explanation": "ディルは葉・果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 26
+    }
+  },
+  {
+    "id": "forecast-102",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ディル",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「魚介のマリネやピクルス液の香りづけに使う」",
+    "options": [
+      "ディル",
+      "クローブ",
+      "マジョラム"
+    ],
+    "correct": 0,
+    "explanation": "ディルの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 26
+    }
+  },
+  {
+    "id": "forecast-103",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "バニラ",
+    "question": "バニラはどの科に属しますか。",
+    "options": [
+      "ラン科",
+      "セリ科",
+      "コショウ科"
+    ],
+    "correct": 0,
+    "explanation": "バニラはラン科です。",
+    "source": {
+      "book": "book-02",
+      "page": 32
+    }
+  },
+  {
+    "id": "forecast-104",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "バニラ",
+    "question": "バニラで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "葉",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "バニラは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 32
+    }
+  },
+  {
+    "id": "forecast-105",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "バニラ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「さやを発酵と乾燥で加工し、バニリンの香りを引き出す」",
+    "options": [
+      "バニラ",
+      "タイム",
+      "バジル"
+    ],
+    "correct": 0,
+    "explanation": "バニラの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 32
+    }
+  },
+  {
+    "id": "forecast-106",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "パプリカ",
+    "question": "パプリカはどの科に属しますか。",
+    "options": [
+      "ナス科",
+      "クスノキ科",
+      "シソ科"
+    ],
+    "correct": 0,
+    "explanation": "パプリカはナス科です。",
+    "source": {
+      "book": "book-02",
+      "page": 33
+    }
+  },
+  {
+    "id": "forecast-107",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "パプリカ",
+    "question": "パプリカで主に利用する部位はどれですか。",
+    "options": [
+      "果実",
+      "花の雌しべ",
+      "鱗茎"
+    ],
+    "correct": 0,
+    "explanation": "パプリカは果実を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 33
+    }
+  },
+  {
+    "id": "forecast-108",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "パプリカ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「赤い果実を乾燥させて粉末にし、料理に彩りを付ける」",
+    "options": [
+      "パプリカ",
+      "カルダモン",
+      "チャイブ"
+    ],
+    "correct": 0,
+    "explanation": "パプリカの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 33
+    }
+  },
+  {
+    "id": "forecast-109",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "フェンネル",
+    "question": "フェンネルはどの科に属しますか。",
+    "options": [
+      "セリ科",
+      "アカネ科",
+      "マツブサ科"
+    ],
+    "correct": 0,
+    "explanation": "フェンネルはセリ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 34
+    }
+  },
+  {
+    "id": "forecast-110",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "フェンネル",
+    "question": "フェンネルで主に利用する部位はどれですか。",
+    "options": [
+      "果実・葉・茎",
+      "つぼみ",
+      "種子"
+    ],
+    "correct": 0,
+    "explanation": "フェンネルは果実・葉・茎を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 34
+    }
+  },
+  {
+    "id": "forecast-111",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "フェンネル",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「小茴香とも呼ばれ、アニスに似た甘い香りを持つ」",
+    "options": [
+      "フェンネル",
+      "タイム",
+      "七味唐辛子"
+    ],
+    "correct": 0,
+    "explanation": "フェンネルの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 34
+    }
+  },
+  {
+    "id": "forecast-112",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ホースラディッシュ",
+    "question": "ホースラディッシュはどの科に属しますか。",
+    "options": [
+      "アブラナ科",
+      "キク科",
+      "ニクズク科"
+    ],
+    "correct": 0,
+    "explanation": "ホースラディッシュはアブラナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 35
+    }
+  },
+  {
+    "id": "forecast-113",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ホースラディッシュ",
+    "question": "ホースラディッシュで主に利用する部位はどれですか。",
+    "options": [
+      "根",
+      "鱗茎",
+      "種子"
+    ],
+    "correct": 0,
+    "explanation": "ホースラディッシュは根を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 35
+    }
+  },
+  {
+    "id": "forecast-114",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ホースラディッシュ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「西洋わさびとも呼ばれ、ローストビーフに添える」",
+    "options": [
+      "ホースラディッシュ",
+      "ミント",
+      "七味唐辛子"
+    ],
+    "correct": 0,
+    "explanation": "ホースラディッシュの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 35
+    }
+  },
+  {
+    "id": "forecast-115",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "マジョラム",
+    "question": "マジョラムはどの科に属しますか。",
+    "options": [
+      "シソ科",
+      "キク科",
+      "アカネ科"
+    ],
+    "correct": 0,
+    "explanation": "マジョラムはシソ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-116",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "マジョラム",
+    "question": "マジョラムで主に利用する部位はどれですか。",
+    "options": [
+      "葉・花穂",
+      "鱗茎",
+      "果実"
+    ],
+    "correct": 0,
+    "explanation": "マジョラムは葉・花穂を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-117",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "マジョラム",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「肉などの臭み消しにも使う、地中海東部沿岸原産のハーブ」",
+    "options": [
+      "マジョラム",
+      "オレガノ",
+      "クミン"
+    ],
+    "correct": 0,
+    "explanation": "マジョラムの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 36
+    }
+  },
+  {
+    "id": "forecast-118",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "ルッコラ",
+    "question": "ルッコラはどの科に属しますか。",
+    "options": [
+      "アブラナ科",
+      "コショウ科",
+      "シソ科"
+    ],
+    "correct": 0,
+    "explanation": "ルッコラはアブラナ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 39
+    }
+  },
+  {
+    "id": "forecast-119",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "ルッコラ",
+    "question": "ルッコラで主に利用する部位はどれですか。",
+    "options": [
+      "地上部",
+      "果実",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "ルッコラは地上部を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 39
+    }
+  },
+  {
+    "id": "forecast-120",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "ルッコラ",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「ゴマを思わせる風味の葉をサラダなどに使う」",
+    "options": [
+      "ルッコラ",
+      "ナツメッグ",
+      "ガラムマサラ"
+    ],
+    "correct": 0,
+    "explanation": "ルッコラの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 39
+    }
+  },
+  {
+    "id": "forecast-121",
+    "grade": 2,
+    "type": "choice",
+    "category": "植物の分類",
+    "spice": "レモングラス",
+    "question": "レモングラスはどの科に属しますか。",
+    "options": [
+      "イネ科",
+      "シソ科",
+      "ラン科"
+    ],
+    "correct": 0,
+    "explanation": "レモングラスはイネ科です。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "forecast-122",
+    "grade": 2,
+    "type": "choice",
+    "category": "利用部位",
+    "spice": "レモングラス",
+    "question": "レモングラスで主に利用する部位はどれですか。",
+    "options": [
+      "地上部",
+      "花の雌しべ",
+      "樹皮"
+    ],
+    "correct": 0,
+    "explanation": "レモングラスは地上部を利用します。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "forecast-123",
+    "grade": 2,
+    "type": "choice",
+    "category": "特徴と使い方",
+    "spice": "レモングラス",
+    "question": "次の説明に当てはまるスパイス・ハーブはどれですか。「葉や茎を刻んだりたたいたりしてレモン様の香りを出す」",
+    "options": [
+      "レモングラス",
+      "スターアニス",
+      "ルッコラ"
+    ],
+    "correct": 0,
+    "explanation": "レモングラスの項目に記載された特徴です。",
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "forecast-124",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "麻の実",
+    "question": "次の説明に当てはまるものはどれですか。「七味唐辛子の材料にもなる、アサの種子」",
+    "options": [
+      "麻の実",
+      "しそ（紫蘇）",
+      "ニオイアダン"
+    ],
+    "correct": 0,
+    "explanation": "麻の実についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 49
+    }
+  },
+  {
+    "id": "forecast-125",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "アサフェティダ",
+    "question": "次の説明に当てはまるものはどれですか。「ヒングとも呼ばれ、油で熱して強いにおいを和らげて使う」",
+    "options": [
+      "アサフェティダ",
+      "チャートマサラ",
+      "カフェライム"
+    ],
+    "correct": 0,
+    "explanation": "アサフェティダについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 49
+    }
+  },
+  {
+    "id": "forecast-126",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "アジョワン",
+    "question": "次の説明に当てはまるものはどれですか。「インド料理で使われ、タイムを思わせる香りの種子」",
+    "options": [
+      "アジョワン",
+      "クレソン",
+      "セロリー（シード）"
+    ],
+    "correct": 0,
+    "explanation": "アジョワンについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 49
+    }
+  },
+  {
+    "id": "forecast-127",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "カトルエピス",
+    "question": "次の説明に当てはまるものはどれですか。「フランス語で「四つのスパイス」を意味する配合」",
+    "options": [
+      "カトルエピス",
+      "タマリンド",
+      "みつば"
+    ],
+    "correct": 0,
+    "explanation": "カトルエピスについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 58
+    }
+  },
+  {
+    "id": "forecast-128",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "カフェライム",
+    "question": "次の説明に当てはまるものはどれですか。「マックルーとも呼ばれ、東南アジア料理で葉を香りづけに使う」",
+    "options": [
+      "カフェライム",
+      "みつば",
+      "ケイパー"
+    ],
+    "correct": 0,
+    "explanation": "カフェライムについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 50
+    }
+  },
+  {
+    "id": "forecast-129",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ガランガル",
+    "question": "次の説明に当てはまるものはどれですか。「タイ料理で「カー」と呼ばれるショウガ科の根茎」",
+    "options": [
+      "ガランガル",
+      "ニオイアダン",
+      "マンゴーパウダー"
+    ],
+    "correct": 0,
+    "explanation": "ガランガルについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 50
+    }
+  },
+  {
+    "id": "forecast-130",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "カレーリーフ",
+    "question": "次の説明に当てはまるものはどれですか。「インド料理で香りづけに使われる葉」",
+    "options": [
+      "カレーリーフ",
+      "セロリー（シード）",
+      "かんぞう"
+    ],
+    "correct": 0,
+    "explanation": "カレーリーフについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 50
+    }
+  },
+  {
+    "id": "forecast-131",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "かんぞう",
+    "question": "次の説明に当てはまるものはどれですか。「リコリスとも呼ばれ、強い甘みを持つ根」",
+    "options": [
+      "かんぞう",
+      "セロリー（シード）",
+      "クベバ"
+    ],
+    "correct": 0,
+    "explanation": "かんぞうについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 51
+    }
+  },
+  {
+    "id": "forecast-132",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "クベバ",
+    "question": "次の説明に当てはまるものはどれですか。「尾のような突起を持つコショウ科の果実」",
+    "options": [
+      "クベバ",
+      "サボリー",
+      "かんぞう"
+    ],
+    "correct": 0,
+    "explanation": "クベバについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 51
+    }
+  },
+  {
+    "id": "forecast-133",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "グレインズオブパラダイス",
+    "question": "次の説明に当てはまるものはどれですか。「西アフリカ由来で、ショウガ科の種子を使う」",
+    "options": [
+      "グレインズオブパラダイス",
+      "サッサフラス",
+      "アジョワン"
+    ],
+    "correct": 0,
+    "explanation": "グレインズオブパラダイスについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 51
+    }
+  },
+  {
+    "id": "forecast-134",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "クレソン",
+    "question": "次の説明に当てはまるものはどれですか。「ウォータークレスとも呼ばれる水辺のアブラナ科植物」",
+    "options": [
+      "クレソン",
+      "けしの実",
+      "ソレル"
+    ],
+    "correct": 0,
+    "explanation": "クレソンについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 52
+    }
+  },
+  {
+    "id": "forecast-135",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ケイパー",
+    "question": "次の説明に当てはまるものはどれですか。「開花前のつぼみを酢漬けなどにして使う」",
+    "options": [
+      "ケイパー",
+      "麻の実",
+      "アジョワン"
+    ],
+    "correct": 0,
+    "explanation": "ケイパーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 52
+    }
+  },
+  {
+    "id": "forecast-136",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "けしの実",
+    "question": "次の説明に当てはまるものはどれですか。「パンや菓子の飾り・風味づけに使うケシの種子」",
+    "options": [
+      "けしの実",
+      "マーシュ",
+      "ロングペッパー"
+    ],
+    "correct": 0,
+    "explanation": "けしの実についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 52
+    }
+  },
+  {
+    "id": "forecast-137",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ザーター",
+    "question": "次の説明に当てはまるものはどれですか。「中東で使われる、ハーブやゴマなどのミックススパイス」",
+    "options": [
+      "ザーター",
+      "クレソン",
+      "フェネグリーク"
+    ],
+    "correct": 0,
+    "explanation": "ザーターについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 58
+    }
+  },
+  {
+    "id": "forecast-138",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "サッサフラス",
+    "question": "次の説明に当てはまるものはどれですか。「ガンボに使うフィレパウダーの材料となる葉」",
+    "options": [
+      "サッサフラス",
+      "パンチフォロン",
+      "フェネグリーク"
+    ],
+    "correct": 0,
+    "explanation": "サッサフラスについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 53
+    }
+  },
+  {
+    "id": "forecast-139",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "サフラワー",
+    "question": "次の説明に当てはまるものはどれですか。「紅花とも呼ばれ、花弁を色づけに利用する」",
+    "options": [
+      "サフラワー",
+      "チャートマサラ",
+      "ガランガル"
+    ],
+    "correct": 0,
+    "explanation": "サフラワーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 53
+    }
+  },
+  {
+    "id": "forecast-140",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "サボリー",
+    "question": "次の説明に当てはまるものはどれですか。「豆料理と相性がよいシソ科のハーブ」",
+    "options": [
+      "サボリー",
+      "カフェライム",
+      "ニゲラ"
+    ],
+    "correct": 0,
+    "explanation": "サボリーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 53
+    }
+  },
+  {
+    "id": "forecast-141",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "しそ（紫蘇）",
+    "question": "次の説明に当てはまるものはどれですか。「青じそや赤じそがあり、日本料理の薬味にもなる」",
+    "options": [
+      "しそ（紫蘇）",
+      "サフラワー",
+      "クレソン"
+    ],
+    "correct": 0,
+    "explanation": "しそ（紫蘇）についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 54
+    }
+  },
+  {
+    "id": "forecast-142",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "スマック",
+    "question": "次の説明に当てはまるものはどれですか。「中東料理で酸味を加えるために使う赤い果実」",
+    "options": [
+      "スマック",
+      "アサフェティダ",
+      "サボリー"
+    ],
+    "correct": 0,
+    "explanation": "スマックについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 54
+    }
+  },
+  {
+    "id": "forecast-143",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "セロリー（シード）",
+    "question": "次の説明に当てはまるものはどれですか。「セロリの種子に由来する香りづけ用スパイス」",
+    "options": [
+      "セロリー（シード）",
+      "チャートマサラ",
+      "パンチフォロン"
+    ],
+    "correct": 0,
+    "explanation": "セロリー（シード）についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 54
+    }
+  },
+  {
+    "id": "forecast-144",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ソレル",
+    "question": "次の説明に当てはまるものはどれですか。「酸味のある葉を食用にするタデ科植物」",
+    "options": [
+      "ソレル",
+      "アサフェティダ",
+      "カトルエピス"
+    ],
+    "correct": 0,
+    "explanation": "ソレルについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 55
+    }
+  },
+  {
+    "id": "forecast-145",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ダッカ（デュカ）",
+    "question": "次の説明に当てはまるものはどれですか。「ゴマ・ナッツ・クミンなどを合わせる北アフリカの配合」",
+    "options": [
+      "ダッカ（デュカ）",
+      "アサフェティダ",
+      "ニゲラ"
+    ],
+    "correct": 0,
+    "explanation": "ダッカ（デュカ）についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 59
+    }
+  },
+  {
+    "id": "forecast-146",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "たで（蓼）",
+    "question": "次の説明に当てはまるものはどれですか。「アユに添えるたで酢に使う辛みのある葉」",
+    "options": [
+      "たで（蓼）",
+      "カレーリーフ",
+      "フェネグリーク"
+    ],
+    "correct": 0,
+    "explanation": "たで（蓼）についての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 55
+    }
+  },
+  {
+    "id": "forecast-147",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "タマリンド",
+    "question": "次の説明に当てはまるものはどれですか。「酸味のある果肉を調味に使うマメ科植物」",
+    "options": [
+      "タマリンド",
+      "カレーリーフ",
+      "スマック"
+    ],
+    "correct": 0,
+    "explanation": "タマリンドについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 55
+    }
+  },
+  {
+    "id": "forecast-148",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "チャートマサラ",
+    "question": "次の説明に当てはまるものはどれですか。「マンゴーパウダーなどを使うインドの酸味のある配合」",
+    "options": [
+      "チャートマサラ",
+      "ニオイアダン",
+      "けしの実"
+    ],
+    "correct": 0,
+    "explanation": "チャートマサラについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 59
+    }
+  },
+  {
+    "id": "forecast-149",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "どくだみ",
+    "question": "次の説明に当てはまるものはどれですか。「葉をお茶にも使うドクダミ科植物」",
+    "options": [
+      "どくだみ",
+      "アサフェティダ",
+      "サッサフラス"
+    ],
+    "correct": 0,
+    "explanation": "どくだみについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 56
+    }
+  },
+  {
+    "id": "forecast-150",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ニオイアダン",
+    "question": "次の説明に当てはまるものはどれですか。「パンダンとも呼ばれ、東南アジアで葉を米料理や菓子に使う」",
+    "options": [
+      "ニオイアダン",
+      "サッサフラス",
+      "けしの実"
+    ],
+    "correct": 0,
+    "explanation": "ニオイアダンについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 56
+    }
+  },
+  {
+    "id": "forecast-151",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ニゲラ",
+    "question": "次の説明に当てはまるものはどれですか。「ブラッククミンとも呼ばれるが、クミンとは別のキンポウゲ科植物」",
+    "options": [
+      "ニゲラ",
+      "タマリンド",
+      "セロリー（シード）"
+    ],
+    "correct": 0,
+    "explanation": "ニゲラについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 56
+    }
+  },
+  {
+    "id": "forecast-152",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "パンチフォロン",
+    "question": "次の説明に当てはまるものはどれですか。「インドの東部で使う、五種類の種子を合わせた配合」",
+    "options": [
+      "パンチフォロン",
+      "ザーター",
+      "クベバ"
+    ],
+    "correct": 0,
+    "explanation": "パンチフォロンについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 59
+    }
+  },
+  {
+    "id": "forecast-153",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "フェネグリーク",
+    "question": "次の説明に当てはまるものはどれですか。「メティとも呼ばれ、種子と葉を使うマメ科植物」",
+    "options": [
+      "フェネグリーク",
+      "サフラワー",
+      "みつば"
+    ],
+    "correct": 0,
+    "explanation": "フェネグリークについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 57
+    }
+  },
+  {
+    "id": "forecast-154",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "マーシュ",
+    "question": "次の説明に当てはまるものはどれですか。「やわらかな葉をサラダに使う植物」",
+    "options": [
+      "マーシュ",
+      "フェネグリーク",
+      "カトルエピス"
+    ],
+    "correct": 0,
+    "explanation": "マーシュについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 57
+    }
+  },
+  {
+    "id": "forecast-155",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "マンゴーパウダー",
+    "question": "次の説明に当てはまるものはどれですか。「アムチュールとも呼ばれ、未熟なマンゴーの酸味を利用する」",
+    "options": [
+      "マンゴーパウダー",
+      "ソレル",
+      "フェネグリーク"
+    ],
+    "correct": 0,
+    "explanation": "マンゴーパウダーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 57
+    }
+  },
+  {
+    "id": "forecast-156",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "みつば",
+    "question": "次の説明に当てはまるものはどれですか。「葉や茎を使うセリ科の和の香味野菜」",
+    "options": [
+      "みつば",
+      "マンゴーパウダー",
+      "チャートマサラ"
+    ],
+    "correct": 0,
+    "explanation": "みつばについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 58
+    }
+  },
+  {
+    "id": "forecast-157",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ラセラヌー",
+    "question": "次の説明に当てはまるものはどれですか。「モロッコで使われる20種類以上の材料を合わせたミックススパイス」",
+    "options": [
+      "ラセラヌー",
+      "カフェライム",
+      "ケイパー"
+    ],
+    "correct": 0,
+    "explanation": "ラセラヌーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 59
+    }
+  },
+  {
+    "id": "forecast-158",
+    "grade": 1,
+    "type": "choice",
+    "category": "上級のスパイス",
+    "spice": "ロングペッパー",
+    "question": "次の説明に当てはまるものはどれですか。「沖縄でピパーチとも呼ばれるコショウ科の果実」",
+    "options": [
+      "ロングペッパー",
+      "サフラワー",
+      "サッサフラス"
+    ],
+    "correct": 0,
+    "explanation": "ロングペッパーについての説明です。",
+    "source": {
+      "book": "book-02",
+      "page": 58
+    }
+  },
+  {
+    "id": "forecast-159",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "サフラン",
+    "question": "サフランの色を料理に均一につける手順を、使う部位とともに説明してください。",
+    "answer": "花の雌しべを水・牛乳・白ワインなどの液体に20分以上浸し、黄色を出してから料理に加える。",
+    "explanation": "雌しべ、液体での色出し、20分以上の3点を確認します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 15
+    }
+  },
+  {
+    "id": "forecast-160",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "ナツメッグ",
+    "question": "ナツメッグとメースは、同じ果実のどの部分から得られますか。",
+    "answer": "ナツメッグは種子、メースはその種子を包む仮種皮から得られる。",
+    "explanation": "利用部位の違いを説明できれば正解です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 29
+    }
+  },
+  {
+    "id": "forecast-161",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "こしょう",
+    "question": "黒こしょう、白こしょう、緑こしょうの違いが生じる理由を説明してください。",
+    "answer": "同じコショウの果実でも、収穫時期や収穫後の加工方法が異なるため。",
+    "explanation": "植物種の違いではなく、果実の扱いの違いです。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 12
+    }
+  },
+  {
+    "id": "forecast-162",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "コリアンダー",
+    "question": "コリアンダーを葉と果実で使い分ける理由を説明してください。",
+    "answer": "葉と果実では香りが異なるため、料理で求める風味に合わせて使い分ける。",
+    "explanation": "二つの部位の香りの違いに触れてください。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-163",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "カルダモン",
+    "question": "ホールのカルダモンの香りを料理に移しやすくする方法を説明してください。",
+    "answer": "香りの強い種子が入ったさやに切れ目を入れてから使う。",
+    "explanation": "香りの中心がさやの中の種子にあることが要点です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 7
+    }
+  },
+  {
+    "id": "forecast-164",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "くちなし",
+    "question": "くちなしの果実できんとんを色づける手順を説明してください。",
+    "answer": "果実を割って水か湯に浸す、または煮出して黄色を出し、液を使って色づける。",
+    "explanation": "色素は水に溶けるため、色出しした液を利用します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 9
+    }
+  },
+  {
+    "id": "forecast-165",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "アニス",
+    "question": "アニスとスターアニスは香りが似ていますが、同じ植物ではありません。科名と共通する香り成分を述べてください。",
+    "answer": "アニスはセリ科、スターアニスはマツブサ科。甘い香りの主成分はどちらもアネトール。",
+    "explanation": "二つの科名とアネトールを確認します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-166",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "チリパウダー",
+    "question": "チリパウダーとチリペッパーの違いを説明してください。",
+    "answer": "チリペッパーは唐辛子を指し、チリパウダーは唐辛子をベースにクミンなどを加えた配合である。",
+    "explanation": "単一の唐辛子とミックススパイスの区別が要点です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 48
+    }
+  },
+  {
+    "id": "forecast-167",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "オールスパイス",
+    "question": "オールスパイスが複数のスパイスを混ぜたものと誤解されやすい理由を説明してください。",
+    "answer": "単一の植物の未熟な果実だが、クローブ、ナツメッグ、シナモンを合わせたような香りがするため。",
+    "explanation": "植物は一種類で、香りが複合的である点を確認します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-168",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "レモングラス",
+    "question": "レモングラスの香りを料理に出しやすくする下準備を説明してください。",
+    "answer": "葉は刻むか手でもみ、茎は切れ目を入れてたたくなどしてから使う。",
+    "explanation": "組織を傷つけて香りを出しやすくします。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 40
+    }
+  },
+  {
+    "id": "forecast-169",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "カフェライム",
+    "question": "カフェライムは東南アジア料理でどの部位をどう利用しますか。",
+    "answer": "葉をスープやカレーなどの香りづけに使う。",
+    "explanation": "利用部位が葉であることが要点です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 50
+    }
+  },
+  {
+    "id": "forecast-170",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "ケイパー",
+    "question": "ケイパーの収穫部位と、料理で使う前の一般的な加工を説明してください。",
+    "answer": "開花前のつぼみを収穫し、酢漬けや塩漬けにして使う。",
+    "explanation": "つぼみと漬け込みの両方を確認します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 52
+    }
+  },
+  {
+    "id": "forecast-171",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "ニゲラ",
+    "question": "ブラッククミンと呼ばれるニゲラを、クミンと混同してはいけない理由を説明してください。",
+    "answer": "ニゲラはキンポウゲ科の種子で、セリ科のクミンとは別の植物だから。",
+    "explanation": "名前が似ていても科名が異なります。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 56
+    }
+  },
+  {
+    "id": "forecast-172",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "タマリンド",
+    "question": "タマリンドの料理での主な役割と利用部位を説明してください。",
+    "answer": "マメ科植物の果肉を使い、料理に酸味を加える。",
+    "explanation": "果肉と酸味が要点です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 55
+    }
+  },
+  {
+    "id": "forecast-173",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "マンゴーパウダー",
+    "question": "マンゴーパウダー（アムチュール）は何から作り、料理にどのような風味を加えますか。",
+    "answer": "未熟なマンゴーを乾燥・粉末にしたもので、料理に酸味を加える。",
+    "explanation": "材料と酸味の両方を説明します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 57
+    }
+  },
+  {
+    "id": "forecast-174",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "ダッカ（デュカ）",
+    "question": "ダッカ（デュカ）のようなミックススパイスに含まれる材料を二つ以上挙げてください。",
+    "answer": "ゴマ、ナッツ、クミン、コリアンダーなどを合わせる。",
+    "explanation": "材料を二つ以上挙げられれば正解です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 59
+    }
+  },
+  {
+    "id": "forecast-175",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "アサフェティダ",
+    "question": "アサフェティダ（ヒング）を調理の初めに油で熱する理由を説明してください。",
+    "answer": "強い生のにおいを和らげ、料理に香りを移すため。",
+    "explanation": "油による加熱で香りが変わることが要点です。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 49
+    }
+  },
+  {
+    "id": "forecast-176",
+    "grade": 1,
+    "type": "written",
+    "category": "記述・応用",
+    "spice": "バニラ",
+    "question": "バニラの果実が甘い香りを持つようになる加工と、主な香り成分を説明してください。",
+    "answer": "未熟なさやを収穫して発酵と乾燥を繰り返すキュアリングを行い、バニリンの香りを引き出す。",
+    "explanation": "キュアリングとバニリンを確認します。",
+    "maxLength": 100,
+    "source": {
+      "book": "book-02",
+      "page": 32
+    }
+  },
+  {
+    "id": "forecast-general-177",
+    "grade": 3,
+    "type": "choice",
+    "category": "形態",
+    "spice": "",
+    "question": "乾燥したスパイスを、植物の形がほぼ残る状態で使う形態はどれですか。",
+    "options": [
+      "ホール",
+      "パウダー",
+      "ブレンド"
+    ],
+    "correct": 0,
+    "explanation": "ホールは原形をほぼ保ちます。",
+    "source": {
+      "book": "book-01",
+      "page": 8
+    }
+  },
+  {
+    "id": "forecast-general-178",
+    "grade": 3,
+    "type": "choice",
+    "category": "形態",
+    "spice": "",
+    "question": "単一のスパイスを細かく粉砕した形態はどれですか。",
+    "options": [
+      "パウダー",
+      "ホール",
+      "フレッシュ"
+    ],
+    "correct": 0,
+    "explanation": "パウダーは細かい粉末です。",
+    "source": {
+      "book": "book-01",
+      "page": 8
+    }
+  },
+  {
+    "id": "forecast-general-179",
+    "grade": 3,
+    "type": "choice",
+    "category": "基本の働き",
+    "spice": "",
+    "question": "教科書が挙げるスパイス・ハーブの料理での三つの働きはどれですか。",
+    "options": [
+      "香りづけ・辛みづけ・色づけ",
+      "甘みづけ・酸味づけ・塩味づけ",
+      "発酵・乳化・凝固"
+    ],
+    "correct": 0,
+    "explanation": "香り、辛み、色が料理での基本的な働きです。",
+    "source": {
+      "book": "book-01",
+      "page": 13
+    }
+  },
+  {
+    "id": "forecast-general-180",
+    "grade": 3,
+    "type": "choice",
+    "category": "香りの引き出し方",
+    "spice": "",
+    "question": "ホールスパイスの香りを引き出す方法として適切なのはどれですか。",
+    "options": [
+      "挽いたりつぶしたりして組織を壊す",
+      "水洗いして密閉するだけ",
+      "冷凍したまま料理に載せる"
+    ],
+    "correct": 0,
+    "explanation": "香気成分を含む組織を壊すと香りが立ちます。",
+    "source": {
+      "book": "book-01",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-general-181",
+    "grade": 3,
+    "type": "choice",
+    "category": "香りの引き出し方",
+    "spice": "",
+    "question": "クミンなどのホールを料理の初めに油で熱する使い方を何と呼びますか。",
+    "options": [
+      "スタータースパイス",
+      "フィニッシュスパイス",
+      "シングルスパイス"
+    ],
+    "correct": 0,
+    "explanation": "調理の最初に油へ香りを移します。",
+    "source": {
+      "book": "book-01",
+      "page": 14
+    }
+  },
+  {
+    "id": "forecast-general-182",
+    "grade": 3,
+    "type": "choice",
+    "category": "使用量",
+    "spice": "",
+    "question": "初めて使うスパイス・ハーブの量は、どう決めるのが基本ですか。",
+    "options": [
+      "少量から加えて味を確かめる",
+      "最初から大量に加える",
+      "すべて同じ量にそろえる"
+    ],
+    "correct": 0,
+    "explanation": "加えすぎを避け、少量から調整します。",
+    "source": {
+      "book": "book-01",
+      "page": 17
+    }
+  },
+  {
+    "id": "forecast-general-183",
+    "grade": 3,
+    "type": "choice",
+    "category": "調理のタイミング",
+    "spice": "",
+    "question": "素材の臭みを抑える目的で、調理前にスパイスを使う段階はどれですか。",
+    "options": [
+      "下ごしらえ",
+      "盛りつけ後",
+      "食べ終わった後"
+    ],
+    "correct": 0,
+    "explanation": "下ごしらえでは素材にまぶしたり漬け込んだりします。",
+    "source": {
+      "book": "book-01",
+      "page": 16
+    }
+  },
+  {
+    "id": "forecast-general-184",
+    "grade": 3,
+    "type": "choice",
+    "category": "世界の料理",
+    "spice": "",
+    "question": "スペインのパエリアを黄色く色づけする代表的なスパイスはどれですか。",
+    "options": [
+      "サフラン",
+      "こしょう",
+      "クローブ"
+    ],
+    "correct": 0,
+    "explanation": "パエリアにはサフランが使われます。",
+    "source": {
+      "book": "book-01",
+      "page": 22
+    }
+  },
+  {
+    "id": "forecast-general-185",
+    "grade": 3,
+    "type": "choice",
+    "category": "保存",
+    "spice": "",
+    "question": "乾燥スパイスを保存するときに避けたいものはどれですか。",
+    "options": [
+      "光と熱と湿気",
+      "暗所と密閉",
+      "乾燥した冷暗所"
+    ],
+    "correct": 0,
+    "explanation": "香りと色を守るため光・熱・湿気を避けます。",
+    "source": {
+      "book": "book-01",
+      "page": 11
+    }
+  },
+  {
+    "id": "forecast-general-186",
+    "grade": 3,
+    "type": "choice",
+    "category": "下準備",
+    "spice": "",
+    "question": "フレッシュハーブを洗ったあと、調理前に行うことはどれですか。",
+    "options": [
+      "やさしく水気を取る",
+      "濡れたまま長く置く",
+      "強くこすってつぶす"
+    ],
+    "correct": 0,
+    "explanation": "水気を残すと傷みやすくなります。",
+    "source": {
+      "book": "book-01",
+      "page": 18
+    }
+  },
+  {
+    "id": "forecast-general-187",
+    "grade": 2,
+    "type": "choice",
+    "category": "使い方",
+    "spice": "",
+    "question": "料理の仕上げに瞬時に香りを立てたいとき、使いやすい形態はどれですか。",
+    "options": [
+      "パウダー",
+      "根ごとの株",
+      "未粉砕の大きな枝だけ"
+    ],
+    "correct": 0,
+    "explanation": "細かいパウダーは仕上げに香りを広げやすい形態です。",
+    "source": {
+      "book": "book-01",
+      "page": 17
+    }
+  },
+  {
+    "id": "forecast-general-188",
+    "grade": 2,
+    "type": "choice",
+    "category": "使い方",
+    "spice": "",
+    "question": "煮込みの間に徐々に香りを引き出すとき、向いている形態はどれですか。",
+    "options": [
+      "ホール",
+      "ごく細かい粉末だけ",
+      "生の花だけ"
+    ],
+    "correct": 0,
+    "explanation": "調理中は粒度が大きいホールタイプが適しています。",
+    "source": {
+      "book": "book-01",
+      "page": 16
+    }
+  },
+  {
+    "id": "forecast-general-189",
+    "grade": 2,
+    "type": "choice",
+    "category": "保存",
+    "spice": "",
+    "question": "フレッシュバジルの保存で、教科書が注意することはどれですか。",
+    "options": [
+      "低温に長く置かない",
+      "必ず冷凍庫に裸で入れる",
+      "直射日光の下に置く"
+    ],
+    "correct": 0,
+    "explanation": "バジルは低温で傷みやすく、涼しい場所で扱います。",
+    "source": {
+      "book": "book-01",
+      "page": 11
+    }
+  },
+  {
+    "id": "forecast-general-190",
+    "grade": 2,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "二種類以上のハーブを合わせたお茶の呼び名はどれですか。",
+    "options": [
+      "ブレンドハーブティー",
+      "シングルハーブティー",
+      "フレッシュハーブティー"
+    ],
+    "correct": 0,
+    "explanation": "複数種類を合わせたものがブレンドです。",
+    "source": {
+      "book": "book-03",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-general-191",
+    "grade": 2,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "ドライハーブだけを用いていれたお茶の呼び名はどれですか。",
+    "options": [
+      "ドライハーブティー",
+      "フレッシュハーブティー",
+      "緑茶"
+    ],
+    "correct": 0,
+    "explanation": "材料が乾燥ハーブであることを表します。",
+    "source": {
+      "book": "book-03",
+      "page": 3
+    }
+  },
+  {
+    "id": "forecast-general-192",
+    "grade": 2,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "ハーブティーを抽出するとき、ティーポットに蓋をする主な理由はどれですか。",
+    "options": [
+      "揮発しやすい香りを逃がしにくくする",
+      "色だけを消す",
+      "水の量を増やす"
+    ],
+    "correct": 0,
+    "explanation": "香り成分は揮発しやすいため蓋をします。",
+    "source": {
+      "book": "book-03",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-general-193",
+    "grade": 2,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "ハーブティーに熱湯を使う主な理由はどれですか。",
+    "options": [
+      "香りを引き出しやすくする",
+      "甘みを必ずなくす",
+      "葉を凍らせる"
+    ],
+    "correct": 0,
+    "explanation": "熱湯で香りを出しやすくします。",
+    "source": {
+      "book": "book-03",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-general-194",
+    "grade": 2,
+    "type": "choice",
+    "category": "ハーブティー",
+    "spice": "",
+    "question": "ティーカップ一杯分で、フレッシュハーブの量はドライの約何倍が目安ですか。",
+    "options": [
+      "約3倍",
+      "約半分",
+      "約10倍"
+    ],
+    "correct": 0,
+    "explanation": "教科書ではフレッシュをドライの約3倍量としています。",
+    "source": {
+      "book": "book-03",
+      "page": 4
+    }
+  },
+  {
+    "id": "forecast-general-195",
+    "grade": 2,
+    "type": "choice",
+    "category": "栽培",
+    "spice": "",
+    "question": "鉢植えハーブへの水やりで基本とされるのはどれですか。",
+    "options": [
+      "土の表面が乾いたらたっぷり与える",
+      "土を常に水浸しにする",
+      "葉だけに毎日少量ずつかける"
+    ],
+    "correct": 0,
+    "explanation": "過湿は根腐れの原因になるため、乾きを見て与えます。",
+    "source": {
+      "book": "book-03",
+      "page": 18
+    }
+  },
+  {
+    "id": "forecast-general-196",
+    "grade": 2,
+    "type": "choice",
+    "category": "栽培",
+    "spice": "",
+    "question": "枝先の中心を切り、脇芽を育てる作業はどれですか。",
+    "options": [
+      "摘心",
+      "株分け",
+      "追熟"
+    ],
+    "correct": 0,
+    "explanation": "摘心は枝分かれを促します。",
+    "source": {
+      "book": "book-03",
+      "page": 19
+    }
+  },
+  {
+    "id": "forecast-general-197",
+    "grade": 1,
+    "type": "choice",
+    "category": "栽培",
+    "spice": "",
+    "question": "セリ科の多くのハーブを葉として収穫するとき、基本となる位置はどれですか。",
+    "options": [
+      "中心を残して外側の葉から取る",
+      "中心の新芽だけをすべて抜く",
+      "根を毎回掘り上げる"
+    ],
+    "correct": 0,
+    "explanation": "内側から新芽が出るため、中心を残します。",
+    "source": {
+      "book": "book-03",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-general-198",
+    "grade": 1,
+    "type": "choice",
+    "category": "栽培",
+    "spice": "",
+    "question": "収穫したハーブをドライにするなら、香りが強い時期として勧められるのはいつですか。",
+    "options": [
+      "開花直前",
+      "発芽直後",
+      "完全に枯れた後"
+    ],
+    "correct": 0,
+    "explanation": "開花直前から咲き始めの頃が勧められています。",
+    "source": {
+      "book": "book-03",
+      "page": 19
+    }
+  },
+  {
+    "id": "forecast-general-199",
+    "grade": 1,
+    "type": "choice",
+    "category": "栽培",
+    "spice": "",
+    "question": "枝の一部を土や水に挿して株を増やす方法はどれですか。",
+    "options": [
+      "挿し木",
+      "株分け",
+      "追熟"
+    ],
+    "correct": 0,
+    "explanation": "枝を切って挿し、発根させるのが挿し木です。",
+    "source": {
+      "book": "book-03",
+      "page": 20
+    }
+  },
+  {
+    "id": "forecast-general-200",
+    "grade": 1,
+    "type": "choice",
+    "category": "健康情報",
+    "spice": "",
+    "question": "フードファディズムとは、教科書でどのように説明されますか。",
+    "options": [
+      "食べ物の健康への影響を過大に評価すること",
+      "食事の内容を記録すること",
+      "複数のスパイスを混ぜること"
+    ],
+    "correct": 0,
+    "explanation": "特定の食品の効果を過大視する考えを指します。",
+    "source": {
+      "book": "book-03",
+      "page": 28
+    }
+  },
+  {
+    "id": "forecast-general-201",
+    "grade": 1,
+    "type": "choice",
+    "category": "健康情報",
+    "spice": "",
+    "question": "スパイス・ハーブの健康情報を見る際、効果より先に確認したい視点はどれですか。",
+    "options": [
+      "安全性",
+      "商品名の長さ",
+      "見た目の色だけ"
+    ],
+    "correct": 0,
+    "explanation": "教科書は有効性の前に安全性の確認を勧めています。",
+    "source": {
+      "book": "book-03",
+      "page": 27
+    }
+  }
+]

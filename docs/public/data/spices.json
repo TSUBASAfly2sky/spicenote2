@@ -1,0 +1,1218 @@
+[
+  {
+    "name": "麻の実",
+    "label": "麻の実",
+    "aliases": [],
+    "printedPage": 98,
+    "source": {
+      "book": "book-02",
+      "page": 49
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "アサフェティダ",
+    "label": "アサフェティダ/ヒング",
+    "aliases": [
+      "ヒング"
+    ],
+    "printedPage": 98,
+    "source": {
+      "book": "book-02",
+      "page": 49
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "アジョワン",
+    "label": "アジョワン",
+    "aliases": [],
+    "printedPage": 98,
+    "source": {
+      "book": "book-02",
+      "page": 49
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "アニス",
+    "label": "アニス",
+    "aliases": [],
+    "printedPage": 52,
+    "source": {
+      "book": "book-02",
+      "page": 3
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "五香粉",
+    "label": "五香粉",
+    "aliases": [],
+    "printedPage": 93,
+    "source": {
+      "book": "book-02",
+      "page": 44
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "エルブドプロバンス",
+    "label": "エルブドプロバンス",
+    "aliases": [],
+    "printedPage": 93,
+    "source": {
+      "book": "book-02",
+      "page": 44
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "オールスパイス",
+    "label": "オールスパイス",
+    "aliases": [],
+    "printedPage": 53,
+    "source": {
+      "book": "book-02",
+      "page": 4
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "オレガノ",
+    "label": "オレガノ",
+    "aliases": [],
+    "printedPage": 54,
+    "source": {
+      "book": "book-02",
+      "page": 5
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ガーリック",
+    "label": "ガーリック",
+    "aliases": [],
+    "printedPage": 55,
+    "source": {
+      "book": "book-02",
+      "page": 6
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "カトルエピス",
+    "label": "カトルエピス",
+    "aliases": [],
+    "printedPage": 107,
+    "source": {
+      "book": "book-02",
+      "page": 58
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "カフェライム",
+    "label": "カフェライム/マックルー",
+    "aliases": [
+      "マックルー"
+    ],
+    "printedPage": 99,
+    "source": {
+      "book": "book-02",
+      "page": 50
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ガラムマサラ",
+    "label": "ガラムマサラ",
+    "aliases": [],
+    "printedPage": 94,
+    "source": {
+      "book": "book-02",
+      "page": 45
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ガランガル",
+    "label": "ガランガル/カー",
+    "aliases": [
+      "カー"
+    ],
+    "printedPage": 99,
+    "source": {
+      "book": "book-02",
+      "page": 50
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "カルダモン",
+    "label": "カルダモン",
+    "aliases": [],
+    "printedPage": 56,
+    "source": {
+      "book": "book-02",
+      "page": 7
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "カレー粉",
+    "label": "カレー粉",
+    "aliases": [],
+    "printedPage": 95,
+    "source": {
+      "book": "book-02",
+      "page": 46
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "カレーリーフ",
+    "label": "カレーリーフ/カリーパッタ",
+    "aliases": [
+      "カリーパッタ"
+    ],
+    "printedPage": 99,
+    "source": {
+      "book": "book-02",
+      "page": 50
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "かんぞう",
+    "label": "かんぞう/リコリス",
+    "aliases": [
+      "リコリス"
+    ],
+    "printedPage": 100,
+    "source": {
+      "book": "book-02",
+      "page": 51
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "キャラウェイ",
+    "label": "キャラウェイ",
+    "aliases": [],
+    "printedPage": 57,
+    "source": {
+      "book": "book-02",
+      "page": 8
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "くちなし",
+    "label": "くちなし",
+    "aliases": [],
+    "printedPage": 58,
+    "source": {
+      "book": "book-02",
+      "page": 9
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "クベバ",
+    "label": "クベバ",
+    "aliases": [],
+    "printedPage": 100,
+    "source": {
+      "book": "book-02",
+      "page": 51
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "クミン",
+    "label": "クミン",
+    "aliases": [],
+    "printedPage": 59,
+    "source": {
+      "book": "book-02",
+      "page": 10
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "グレインズオブパラダイス",
+    "label": "グレインズオブパラダイス",
+    "aliases": [],
+    "printedPage": 100,
+    "source": {
+      "book": "book-02",
+      "page": 51
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "クレソン",
+    "label": "クレソン",
+    "aliases": [],
+    "printedPage": 101,
+    "source": {
+      "book": "book-02",
+      "page": 52
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "クローブ",
+    "label": "クローブ",
+    "aliases": [],
+    "printedPage": 60,
+    "source": {
+      "book": "book-02",
+      "page": 11
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ケイパー",
+    "label": "ケイパー",
+    "aliases": [],
+    "printedPage": 101,
+    "source": {
+      "book": "book-02",
+      "page": 52
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "けしの実",
+    "label": "けしの実/ポピーシード",
+    "aliases": [
+      "ポピーシード"
+    ],
+    "printedPage": 101,
+    "source": {
+      "book": "book-02",
+      "page": 52
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "こしょう",
+    "label": "こしょう",
+    "aliases": [],
+    "printedPage": 61,
+    "source": {
+      "book": "book-02",
+      "page": 12
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "コリアンダー",
+    "label": "コリアンダー",
+    "aliases": [],
+    "printedPage": 63,
+    "source": {
+      "book": "book-02",
+      "page": 14
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ザーター",
+    "label": "ザーター",
+    "aliases": [],
+    "printedPage": 107,
+    "source": {
+      "book": "book-02",
+      "page": 58
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "サッサフラス",
+    "label": "サッサフラス",
+    "aliases": [],
+    "printedPage": 102,
+    "source": {
+      "book": "book-02",
+      "page": 53
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "サフラワー",
+    "label": "サフラワー",
+    "aliases": [],
+    "printedPage": 102,
+    "source": {
+      "book": "book-02",
+      "page": 53
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "サフラン",
+    "label": "サフラン",
+    "aliases": [],
+    "printedPage": 64,
+    "source": {
+      "book": "book-02",
+      "page": 15
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "サボリー",
+    "label": "サボリー",
+    "aliases": [],
+    "printedPage": 102,
+    "source": {
+      "book": "book-02",
+      "page": 53
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "山椒",
+    "label": "山椒/花椒",
+    "aliases": [
+      "花椒"
+    ],
+    "printedPage": 65,
+    "source": {
+      "book": "book-02",
+      "page": 16
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "しそ（紫蘇）",
+    "label": "しそ（紫蘇）",
+    "aliases": [],
+    "printedPage": 103,
+    "source": {
+      "book": "book-02",
+      "page": 54
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "七味唐辛子",
+    "label": "七味唐辛子",
+    "aliases": [],
+    "printedPage": 96,
+    "source": {
+      "book": "book-02",
+      "page": 47
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "シナモン",
+    "label": "シナモン/カシア",
+    "aliases": [
+      "カシア"
+    ],
+    "printedPage": 67,
+    "source": {
+      "book": "book-02",
+      "page": 18
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "しょうが",
+    "label": "しょうが",
+    "aliases": [],
+    "printedPage": 68,
+    "source": {
+      "book": "book-02",
+      "page": 19
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "スターアニス",
+    "label": "スターアニス",
+    "aliases": [],
+    "printedPage": 69,
+    "source": {
+      "book": "book-02",
+      "page": 20
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "スマック",
+    "label": "スマック",
+    "aliases": [],
+    "printedPage": 103,
+    "source": {
+      "book": "book-02",
+      "page": 54
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "セージ",
+    "label": "セージ",
+    "aliases": [],
+    "printedPage": 70,
+    "source": {
+      "book": "book-02",
+      "page": 21
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "セロリー（シード）",
+    "label": "セロリー（シード）",
+    "aliases": [],
+    "printedPage": 103,
+    "source": {
+      "book": "book-02",
+      "page": 54
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ソレル",
+    "label": "ソレル",
+    "aliases": [],
+    "printedPage": 104,
+    "source": {
+      "book": "book-02",
+      "page": 55
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ターメリック",
+    "label": "ターメリック",
+    "aliases": [],
+    "printedPage": 70,
+    "source": {
+      "book": "book-02",
+      "page": 21
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "タイム",
+    "label": "タイム",
+    "aliases": [],
+    "printedPage": 71,
+    "source": {
+      "book": "book-02",
+      "page": 22
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ダッカ（デュカ）",
+    "label": "ダッカ（デュカ）",
+    "aliases": [],
+    "printedPage": 108,
+    "source": {
+      "book": "book-02",
+      "page": 59
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "たで（蓼）",
+    "label": "たで（蓼）",
+    "aliases": [],
+    "printedPage": 104,
+    "source": {
+      "book": "book-02",
+      "page": 55
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "タマリンド",
+    "label": "タマリンド",
+    "aliases": [],
+    "printedPage": 104,
+    "source": {
+      "book": "book-02",
+      "page": 55
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "タラゴン",
+    "label": "タラゴン",
+    "aliases": [],
+    "printedPage": 72,
+    "source": {
+      "book": "book-02",
+      "page": 23
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "チャートマサラ",
+    "label": "チャートマサラ",
+    "aliases": [],
+    "printedPage": 108,
+    "source": {
+      "book": "book-02",
+      "page": 59
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "チャービル",
+    "label": "チャービル",
+    "aliases": [],
+    "printedPage": 74,
+    "source": {
+      "book": "book-02",
+      "page": 25
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "チャイブ",
+    "label": "チャイブ",
+    "aliases": [],
+    "printedPage": 73,
+    "source": {
+      "book": "book-02",
+      "page": 24
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "チリパウダー",
+    "label": "チリパウダー",
+    "aliases": [],
+    "printedPage": 97,
+    "source": {
+      "book": "book-02",
+      "page": 48
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ディル",
+    "label": "ディル",
+    "aliases": [],
+    "printedPage": 75,
+    "source": {
+      "book": "book-02",
+      "page": 26
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "唐辛子",
+    "label": "唐辛子",
+    "aliases": [],
+    "printedPage": 76,
+    "source": {
+      "book": "book-02",
+      "page": 27
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "どくだみ",
+    "label": "どくだみ",
+    "aliases": [],
+    "printedPage": 105,
+    "source": {
+      "book": "book-02",
+      "page": 56
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ナツメッグ",
+    "label": "ナツメッグ/メース",
+    "aliases": [
+      "メース"
+    ],
+    "printedPage": 78,
+    "source": {
+      "book": "book-02",
+      "page": 29
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ニオイアダン",
+    "label": "ニオイアダン/パンダンリーフ",
+    "aliases": [
+      "パンダンリーフ"
+    ],
+    "printedPage": 105,
+    "source": {
+      "book": "book-02",
+      "page": 56
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ニゲラ",
+    "label": "ニゲラ/ブラッククミン",
+    "aliases": [
+      "ブラッククミン"
+    ],
+    "printedPage": 105,
+    "source": {
+      "book": "book-02",
+      "page": 56
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "バジル",
+    "label": "バジル",
+    "aliases": [],
+    "printedPage": 79,
+    "source": {
+      "book": "book-02",
+      "page": 30
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "パセリ",
+    "label": "パセリ",
+    "aliases": [],
+    "printedPage": 80,
+    "source": {
+      "book": "book-02",
+      "page": 31
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "バニラ",
+    "label": "バニラ",
+    "aliases": [],
+    "printedPage": 81,
+    "source": {
+      "book": "book-02",
+      "page": 32
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "パプリカ",
+    "label": "パプリカ",
+    "aliases": [],
+    "printedPage": 82,
+    "source": {
+      "book": "book-02",
+      "page": 33
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "パンチフォロン",
+    "label": "パンチフォロン",
+    "aliases": [],
+    "printedPage": 108,
+    "source": {
+      "book": "book-02",
+      "page": 59
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "フェネグリーク",
+    "label": "フェネグリーク/メティ（メッチ）",
+    "aliases": [
+      "メティ（メッチ）"
+    ],
+    "printedPage": 106,
+    "source": {
+      "book": "book-02",
+      "page": 57
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "フェンネル",
+    "label": "フェンネル",
+    "aliases": [],
+    "printedPage": 83,
+    "source": {
+      "book": "book-02",
+      "page": 34
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ホースラディッシュ",
+    "label": "ホースラディッシュ",
+    "aliases": [],
+    "printedPage": 84,
+    "source": {
+      "book": "book-02",
+      "page": 35
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "マーシュ",
+    "label": "マーシュ",
+    "aliases": [],
+    "printedPage": 106,
+    "source": {
+      "book": "book-02",
+      "page": 57
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "マジョラム",
+    "label": "マジョラム",
+    "aliases": [],
+    "printedPage": 85,
+    "source": {
+      "book": "book-02",
+      "page": 36
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "マスタード",
+    "label": "マスタード",
+    "aliases": [],
+    "printedPage": 85,
+    "source": {
+      "book": "book-02",
+      "page": 36
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "マンゴーパウダー",
+    "label": "マンゴーパウダー/アムチュール",
+    "aliases": [
+      "アムチュール"
+    ],
+    "printedPage": 106,
+    "source": {
+      "book": "book-02",
+      "page": 57
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "みつば",
+    "label": "みつば",
+    "aliases": [],
+    "printedPage": 107,
+    "source": {
+      "book": "book-02",
+      "page": 58
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ミント",
+    "label": "ミント",
+    "aliases": [],
+    "printedPage": 87,
+    "source": {
+      "book": "book-02",
+      "page": 38
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ラセラヌー",
+    "label": "ラセラヌー",
+    "aliases": [],
+    "printedPage": 108,
+    "source": {
+      "book": "book-02",
+      "page": 59
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "ルッコラ",
+    "label": "ルッコラ",
+    "aliases": [],
+    "printedPage": 88,
+    "source": {
+      "book": "book-02",
+      "page": 39
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "レモングラス",
+    "label": "レモングラス",
+    "aliases": [],
+    "printedPage": 89,
+    "source": {
+      "book": "book-02",
+      "page": 40
+    },
+    "entryGrade": 2,
+    "grades": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ローズマリー",
+    "label": "ローズマリー",
+    "aliases": [],
+    "printedPage": 90,
+    "source": {
+      "book": "book-02",
+      "page": 41
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ローレル",
+    "label": "ローレル",
+    "aliases": [],
+    "printedPage": 91,
+    "source": {
+      "book": "book-02",
+      "page": 42
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "ロングペッパー",
+    "label": "ロングペッパー",
+    "aliases": [],
+    "printedPage": 107,
+    "source": {
+      "book": "book-02",
+      "page": 58
+    },
+    "entryGrade": 1,
+    "grades": [
+      1
+    ]
+  },
+  {
+    "name": "わさび",
+    "label": "わさび",
+    "aliases": [],
+    "printedPage": 92,
+    "source": {
+      "book": "book-02",
+      "page": 43
+    },
+    "entryGrade": 3,
+    "grades": [
+      3,
+      2,
+      1
+    ]
+  }
+]
